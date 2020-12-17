@@ -13,3 +13,5 @@ The Matlab toolbox allows to compute analytically the parameters of a VAR model 
 
 
 The code is provided free of charge. It is neither exhaustively tested nor particularly well documented. The authors accept no liability for its use. Use, modification and redistribution of the code is allowed in any way users see fit. Authors ask only that authorship is acknowledged and ref. [1]-[4] is cited upon utilization of the code in integral or partial form. To get started, we recommend that you run and work through the two demonstration scripts.
+
+PLEASE NOTE - in the folder function the toolox SLEP needs to be extracted after the download
