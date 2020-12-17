@@ -1,0 +1,15 @@
+# S-MVAR
+The Matlab toolbox allows to compute analytically the parameters of a VAR model exploring the combined approach of Sparse regressions and state-space (SS) models. In particular, the sparse methodologies investigated are: Ordinary Least square analysis, LASSO regression, Elastic Net regression, Fused LASSO regression and Sparse Group LASSO regression. Then the conditional Granger causality (cGC) is computed for multivariate stochastic process elaborating the results provided in [1]-[2]-[3]-[4]-[5].
+
+[1]- Antonacci, Y.; Minati, L.; Faes L.; Pernice R.; Nollo G,; J.Toppi, A.Pietrabissa; Astolfi L.; Estimation of Granger causality through Artificial Neural Networks: applications to physiological systems and chaotic electronic oscillators, PeerJ Computer Science 2020, sub.
+
+[2]-Faes, L.; Marinazzo, D.; Stramaglia, S. Multiscale information decomposition: Exact computation for multivariate Gaussian processes. Entropy 2017, 19, 408.
+
+[3]-Barnett, L.; Seth, A.K. Granger causality for state-space models. Phys. Rev. E 2015, 91, 040101.
+
+[4]-Antonacci, Y.; Astolfi, L.; Nollo, G.; Faes L.; Information Transfer in Linear Multivariate Processes Assessed through Penalized Regression Techniques: Validation and Application to Physiological Networks. Entropy 2020, 22(7), 732.
+
+[5] Liu, J., Ji, S., \& Ye, J. (2009). SLEP: Sparse learning with efficient projections. Arizona State University, 6(491), 7. 
+
+
+The code is provided free of charge. It is neither exhaustively tested nor particularly well documented. The authors accept no liability for its use. Use, modification and redistribution of the code is allowed in any way users see fit. Authors ask only that authorship is acknowledged and ref. [1]-[4] is cited upon utilization of the code in integral or partial form. To get started, we recommend that you run and work through the two demonstration scripts.
