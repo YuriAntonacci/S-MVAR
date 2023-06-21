@@ -1,7 +1,7 @@
 # S-MVAR
 The Matlab toolbox allows to compute analytically the parameters of a VAR model exploring the different approaches of Sparse regressions. In particular, the methodologies investigated are: Ordinary Least square analysis, LASSO regression, Elastic Net regression, Fused LASSO regression and Sparse Group LASSO regression. Then, as a possible example, the conditional Granger causality (cGC) is computed for multivariate stochastic process elaborating the results provided in [1]-[2]-[3]-[4]-[5]-[6].
 
-[1]- **Antonacci, Y.**; Toppi, J.; Pietrabissa A.; Anzolin A.; Mattia D.; Astolfi L.; Measring Connectivity in Linear Multivariate Processes with Penalized Regression Techniques , Frontiers in Human Neuroscience (submitted).
+[1]- **Antonacci, Y.**; Toppi, J.; Pietrabissa A.; Anzolin A.; Mattia D.; Astolfi L.; Measring Connectivity in Linear Multivariate Processes with Penalized Regression Techniques (submitted).
 
 [2]- **Antonacci, Y.**; Minati, L.; Faes L.; Pernice R.; Nollo G,; J.Toppi, A.Pietrabissa; Astolfi L.; Estimation of Granger causality through Artificial Neural Networks: applications to physiological systems and chaotic electronic oscillators, PeerJ Computer Science 7, e429.
 
